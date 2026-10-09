@@ -1,0 +1,10 @@
+{
+  "description": "ECHO is a personalized emotional well-being platform that helps users track their mental health patterns, receive tailored support, and connect with trusted advisors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
