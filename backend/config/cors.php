@@ -26,6 +26,7 @@ return [
     'http://localhost:8443',
     'http://127.0.0.1:8443',
     'https://echo-1x7f30idw-sana-71f4.vercel.app',
+    'https://echo-4tgx7i6mz-sana-71f4.vercel.app',
 ],
 
 'allowed_origins_patterns' => [],
