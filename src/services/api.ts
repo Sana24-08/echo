@@ -1,7 +1,7 @@
 // API Service - src/services/api.ts
 // Base URL: http://127.0.0.1:8000/api
 
-const API_BASE_URL = "http://127.0.0.1:8000/api"
+const API_BASE_URL = "https://echo-production-0ab6.up.railway.app/api"
 
 export class ApiError extends Error {
   status: number
